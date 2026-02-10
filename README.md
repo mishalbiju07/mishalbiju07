@@ -1,5 +1,18 @@
 # 💫 About Me:
-HI, I'M MISHAL BIJU.<br>Passionate about cloud, DevOps, automation, system architecture, deployment pipelines, web servers, and building scalable, reliable systems.<br><br>Cloud Computing ☁️<br>DevOps ⚙️<br>Automation 🤖<br>System Architecture 🏗️<br>Deployment Pipelines 🚀<br>Web Servers 🌐<br>Scalable Systems 📈
+
+Hi, I'm **Mishal Biju** 👋  
+I'm passionate about **Cloud Computing, DevOps, and System Design**, with a strong focus on building **scalable, secure, and reliable systems**. I enjoy designing system architectures, automating infrastructure, and creating efficient deployment pipelines that power modern applications.
+
+### 🚀 Core Interests & Skills
+- ☁️ **Cloud Architecture**
+- ⚙️ **DevOps Engineering**
+- 🏗️ **System Design & System Architecture**
+- 🧠 **Cloud Architect & System Architect Practices**
+- 🤖 **Automation & Infrastructure as Code**
+- 🚀 **CI/CD & Deployment Pipelines**
+- 🌐 **Web Servers & Distributed Systems**
+- 📈 **Scalable & High-Availability Systems**
+
 
 
 ## 🌐 Socials:
