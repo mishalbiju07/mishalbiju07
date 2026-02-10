@@ -22,6 +22,5 @@ HI, I'M MISHAL BIJU.<br>Passionate about cloud, DevOps, automation, system archi
 ![](https://github-contributor-stats.vercel.app/api?username=Mishalbiju07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mishalbiju07 &icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mishalbiju07&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
