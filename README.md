@@ -31,8 +31,16 @@ I'm passionate about **Cloud Computing, DevOps, and System Design**, with a stro
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mishalbiju07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📦 All Repositories Overview
+
+<p align="center">
+  <a href="https://github.com/Mishalbiju07">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mishalbiju07&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="165"/>
+  </a>
+  <a href="https://github.com/Mishalbiju07?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishalbiju07&layout=compact&theme=github_dark_dimmed&hide_border=true" height="165"/>
+  </a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mishalbiju07&icon=1&color=0)](https://visitcount.itsvg.in)
