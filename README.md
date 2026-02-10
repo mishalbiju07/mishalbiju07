@@ -34,11 +34,16 @@ I'm passionate about **Cloud Computing, DevOps, and System Design**, with a stro
 ### 📦 All Repositories Overview
 
 <p align="center">
-  <a href="https://github.com/Mishalbiju07">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mishalbiju07&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="165"/>
+  <a href="https://github.com/Mishalbiju07" target="_blank" title="View GitHub Profile">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mishalbiju07&show_icons=true&theme=github_dark_dimmed&hide_border=true" alt="GitHub Stats" height="165" />
   </a>
-  <a href="https://github.com/Mishalbiju07?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishalbiju07&layout=compact&theme=github_dark_dimmed&hide_border=true" height="165"/>
+
+  <a href="https://github.com/Mishalbiju07?tab=repositories" target="_blank" title="View Repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishalbiju07&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top Languages" height="165" />
+  </a>
+
+  <a href="https://github.com/Mishalbiju07?tab=repositories" target="_blank" title="View Repositories">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Repository Icon" height="60" style="margin-left: 20px;" />
   </a>
 </p>
 
